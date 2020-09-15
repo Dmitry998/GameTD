@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/frostShot.mp3</SourceFile>
+  <SourceTime>2020-05-20T21:25:26.7454033+03:00</SourceTime>
+  <DestFile>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/bin/Windows/frostShot.xnb</DestFile>
+  <DestTime>2020-05-22T19:07:01.2605882+03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T19:35:54+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T19:35:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

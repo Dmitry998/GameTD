@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/../../../../../Pictures/robot464.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/../../../../../Pictures/robot564.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/../../../../../Pictures/select.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/../../../../../Pictures/snowFl.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/arrowShot.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buildingTower.wav</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/bullet.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/bulletS.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/bulletStandart.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/button_pressed.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buttonExit.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buttonExit1.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buttonFireTower.jpg</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/ButtonFrostTower.jpg</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/ButtonFrostTowerPressed.jpg</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buttonPlay.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/buttonPlay1.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/deathRobot.wav</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/deleteTower.wav</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/enemyPassed.wav</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/File.spritefont</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/finish.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/fireShot.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/fireTower.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/frostShot.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/frostTower.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/grass.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/healthBar.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/lvlup.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/mainMusic.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/path.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/road.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/road7.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/robot264.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/robot364.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/robot64.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/selectFrame.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/shot.mp3</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/snow.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/snowFl.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/start.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/tower.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/towerButton.jpg</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/towerButtonPressed.jpg</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/triangle.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/upgrade.png</File>
+    <File>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/upgrade2.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>robot464.png</File>
+    <File>robot564.png</File>
+    <File>select.png</File>
+    <File>snowFl.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

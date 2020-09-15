@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/deleteTower.wav</SourceFile>
+  <SourceTime>2002-12-22T10:46:52+03:00</SourceTime>
+  <DestFile>C:/Users/Dmitry/source/repos/Game_Towde/Game_Towde/Content/bin/Windows/Content/deleteTower.xnb</DestFile>
+  <DestTime>2020-05-21T00:31:10.2351447+03:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T19:35:54+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T19:35:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
